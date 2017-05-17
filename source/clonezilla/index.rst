@@ -21,7 +21,7 @@
 .. image:: images/clonezilla_01.png
        :height: 643px
        :width: 484 px
-       :scale: 110%
+       :scale: 130%
        :alt: alternate text
        :align: center
 
@@ -33,7 +33,7 @@
 .. image:: images/clonezilla_1.gif
        :height: 735px
        :width: 466px
-       :scale: 130%
+       :scale: 140%
        :alt: alternate text
        :align: center
 
