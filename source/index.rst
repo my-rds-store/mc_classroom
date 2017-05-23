@@ -13,6 +13,7 @@ Welcome to mc_classroom's documentation!
 
    mc_web/mc_web
    clonezilla/index
+   mc_student/index
 
 Indices and tables
 ==================
