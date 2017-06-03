@@ -16,6 +16,7 @@ Welcome to mc_classroom's documentation!
    mc_student/index
    deploy/index
 
+
 Indices and tables
 ==================
 
