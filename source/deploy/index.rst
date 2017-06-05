@@ -8,6 +8,9 @@
 Required:
     `Visual C++ 2015 x64 Redistributable Package <https://www.microsoft.com/zh-CN/download/details.aspx?id=48145>`_
 
+    `Microsoft Visual C++ 2015 Redistributable Update 3 RC <https://www.microsoft.com/zh-cn/download/details.aspx?id=52685>`_
+    
+
 1.1 安装 Visual C++ 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
