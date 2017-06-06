@@ -5,38 +5,14 @@
 1. 安装
 -----------
 
-Required:
-    `Visual C++ 2015 x64 Redistributable Package <https://www.microsoft.com/zh-CN/download/details.aspx?id=48145>`_
-
-    `Microsoft Visual C++ 2015 Redistributable Update 3 RC <https://www.microsoft.com/zh-cn/download/details.aspx?id=52685>`_
-    
-
-1.1 安装 Visual C++ 2015
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: images/install_vc2015.gif
-       :scale: 100%
-       :alt: alternate text
-       :align: center
-
-1.2 安装 mc-deploy
-^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: images/install _mc_deploy.gif
        :scale: 100%
        :alt: alternate text
        :align: center
 
 
-2. 启动apache
----------------
 
-.. image:: images/start_ser.gif  
-       :scale: 100%
-       :alt: alternate text
-       :align: center
-
-
-3. 解压部署包
+2. 解压部署包
 ----------------
 
 .. image:: images/unpack.gif  
@@ -44,6 +20,15 @@ Required:
        :alt: alternate text
        :align: center
 
+
+
+3. 关闭防火墙
+--------------
+
+.. image:: ./images/close_firewall.gif  
+       :scale: 100%
+       :alt: alternate text
+       :align: center
 
 
 
@@ -55,9 +40,11 @@ Required:
        :alt: alternate text
        :align: center
 
+.. image:: ./images/terminal_install.gif
+       :scale: 100%
+       :alt: alternate text
+       :align: center
 
-
-  
 
 
 
