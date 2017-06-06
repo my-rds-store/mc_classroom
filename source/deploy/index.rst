@@ -2,7 +2,17 @@
 ==============================
 
 
-1. 安装
+
+1. 关闭防火墙
+--------------
+
+.. image:: ./images/close_firewall.gif  
+       :scale: 100%
+       :alt: alternate text
+       :align: center
+
+
+2. 安装
 -----------
 
 .. image:: images/install _mc_deploy.gif
@@ -11,8 +21,7 @@
        :align: center
 
 
-
-2. 解压部署包
+3. 解压部署包
 ----------------
 
 .. image:: images/unpack.gif  
@@ -21,14 +30,10 @@
        :align: center
 
 
+.. seealso:: 
 
-3. 关闭防火墙
---------------
+        **注意:** 以管理员身份运行
 
-.. image:: ./images/close_firewall.gif  
-       :scale: 100%
-       :alt: alternate text
-       :align: center
 
 
 
@@ -45,6 +50,12 @@
        :alt: alternate text
        :align: center
 
+5. 卸载
+---------
 
+.. image:: ./images/uninstall.gif
+       :scale: 100%
+       :alt: alternate text
+       :align: center
 
 
