@@ -20,7 +20,6 @@
        :alt: alternate text
        :align: center
 
-
 3. 解压部署包
 ----------------
 
@@ -28,14 +27,6 @@
        :scale: 100%
        :alt: alternate text
        :align: center
-
-
-.. seealso:: 
-
-        **注意:** 以管理员身份运行
-
-
-
 
 4. 设置,并启动批量部署服务
 ---------------------------
@@ -50,7 +41,15 @@
        :alt: alternate text
        :align: center
 
-5. 卸载
+5. 批量配置终端 
+-----------------
+
+.. image:: ./images/batch_config.gif
+       :scale: 100%
+       :alt: alternate text
+       :align: center
+
+6. 卸载
 ---------
 
 .. image:: ./images/uninstall.gif
