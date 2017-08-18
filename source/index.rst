@@ -12,6 +12,7 @@ Welcome to mc_classroom's documentation!
    :caption: Contents:
 
    mc_web/mc_web
+   mc_web/mc_note.rst
    clonezilla/index
    mc_student/index
    deploy/index
